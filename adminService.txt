@@ -5,5 +5,5 @@ manage the database
 
 closing the connection
 
-change 2 in rahul's database
+change 2 in rahul database
 change 1
