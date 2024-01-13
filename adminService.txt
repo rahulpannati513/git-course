@@ -1,13 +1,7 @@
 add and remove users 
 change the roles
-
 manage the database
-
-closing the connection
-
-
-
-
+closing the database connection
 
 change 2 in rahul database
 change 1
