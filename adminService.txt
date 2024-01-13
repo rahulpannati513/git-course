@@ -1,12 +1,11 @@
 add and remove users 
 change the roles
 manage the database
-<<<<<<< HEAD
-closing the oracle database connection
-=======
+
 closing the mysql database connection
->>>>>>> e4d776dff95d1ca6843b2d7943edb4c52f8ebc61
+
 
 change 2 in rahul database
 change 1
 
+q
